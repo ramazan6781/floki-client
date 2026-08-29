@@ -1,8 +1,8 @@
 {
   "v": 2,
   "min_version": "2.0",
-  "exe_sha256": "5aafe6a6591b8d4e0e8e75f6fa36fe2f2bdabe00b2b8dc675b03260957034c44",
-  "issued": 1787994326,
-  "nonce": "BL--yHIuL-nM",
-  "sig": "8wEq7a64zxfrCfTVQd+r/enH7dgZK05guL4/ZZ+9BN/7nric667mUKEvZrSqu5NuewtBnV0xZJQlKZYTHuAdBg=="
+  "exe_sha256": "cbfdfc4d163c53ed92eb74781c62ca2f2e6eeed6eadb328ab5f2da782e68b482",
+  "issued": 1787995494,
+  "nonce": "2B4f_mICfbYQ",
+  "sig": "liGALq7EylfhYEYXS6WKqQe3LPbGuKaRUIv6uET8d6biOrj6YlK5rwi5M9wREDbGTHEHOaDXrk+xsMQG+LYwBQ=="
 }
