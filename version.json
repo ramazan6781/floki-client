@@ -1,9 +1,9 @@
 {
-  "v": 1,
-  "version": "33",
-  "file": "FlokiClient.zip",
-  "sha256": "f11abe7641784684e5326504fd0d4c0dc64329c89a2d24b5c91b368fa3a1cd1e",
-  "issued": 1789978617,
-  "nonce": "HWtK_6RC8u00",
-  "sig": "zpBr0MDoh3MFy3Qh1Qd4Qu1w5CHG3wMsTJSsvdPi4NM6OWjIh0DkIURBMxh6w1lAZ0UDbC40L884CsnuRCXuCA=="
+  "version": "34",
+  "sha256": "47edd2f1a70f820c1a773929c5378d6503f2d55ce85d721923537684905a3762",
+  "issued": 1790137466,
+  "nonce": "79ha-jz8cZBs",
+  "sig": "UVqDj24S6mUz9R6BimVb5jTc+4q4/m3aL4fhpOWHdCraGfMnjAJCPiy+pskfMpr2KNkCgXZsXwdeAHaL20R5DA==",
+  "url": "https://github.com/ramazan6781/floki-client/releases/download/v34/FlokiClient.zip",
+  "file": "FlokiClient.zip"
 }
